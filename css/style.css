@@ -168,9 +168,9 @@ hr.black::after{
 
 
 .portfolio{
-    background-color: none;
     text-align: center;
     margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .portfolio h1{
@@ -290,6 +290,7 @@ hr.black::after{
     padding: 25px 0 20px;
     border: none;
     border-bottom: 1px solid #ccc;
+    outline: none;
 }
 
 .contact a{
